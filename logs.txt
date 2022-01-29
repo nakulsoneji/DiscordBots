@@ -1,0 +1,10 @@
+29/01/2022 15:59:28
+(#ostricha-room) notk0ol: sample message
+
+29/01/2022 15:59:28
+(#messages) Dyno: 
+
+29/01/2022 15:59:28
+(#ostricha-room) polot bot: notk0ol deleted message at 29/01/2022 15:59:28 in ostricha-room:
+sample message
+
