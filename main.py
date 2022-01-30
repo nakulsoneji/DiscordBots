@@ -10,8 +10,7 @@ import requests
 from youtube_dl import YoutubeDL
 import os
 
-tokens = {"gaming": "OTIxODYwODQyMzk0MzgyMzU3.Yb5D0A.9BXZIN_vwg3tyew2jvrjBFFjbVY",
-          "polot": "OTIzMDA2MTQyNjgxMDc5ODU5.YcJudQ.HFuwlbeT7mGZaC_83Rjm07ocdZ8"}
+tokens = {"name" : "token}
 token = ""
 
 whichbot = input("what bot do you want to use?\n")
